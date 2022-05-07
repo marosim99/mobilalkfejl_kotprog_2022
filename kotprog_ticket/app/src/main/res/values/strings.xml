@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KoncertJegyek</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register_an_account">Regisztráció</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="cancel">Vissza</string>
+    <string name="register">Regisztráció</string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="remove">Törlés a kosárból</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="create_new_event">Új esemény létrehozása</string>
+    <string name="create">Létrehozás</string>
+    <string name="event_name">Esemény neve</string>
+    <string name="location">Helyszín</string>
+    <string name="date">Dátum</string>
+    <string name="ticket_price">Jegy ára</string>
+    <string name="ticket_amount">Jegyek száma</string>
+</resources>

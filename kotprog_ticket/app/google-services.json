@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711278563684",
+    "project_id": "mobilalk-ticket",
+    "storage_bucket": "mobilalk-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711278563684:android:4f602bfd6cdea95b95ea71",
+        "android_client_info": {
+          "package_name": "com.example.kotprog_ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711278563684-7s91q1ts6t3kg98ge27emddvijmovf47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgaMsXfcnqG5PI7CI8gl8vfc4OCKxsuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711278563684-7s91q1ts6t3kg98ge27emddvijmovf47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
